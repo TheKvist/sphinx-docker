@@ -1,10 +1,10 @@
 # Python Sphinx in Docker
 
-**DISCLAIMER**: THIS IS NEITHER AN OFFICIAL IMAGE NOR AM I AFFILIATED WITH
-SPHINX DOC IN ANY WAY!
+**DISCLAIMER**: This is neither an official image nor am I affiliated with
+the [Sphinx Documentation Generator](http://www.sphinx-doc.org/) in any way.
 
-**DOUBLE DISCLAIMER**: THE ALPINE LINUX VERSION USED AS BASE FOR THIS IMAGE IS
-EDGE. THUS, THE IMAGE MAY BREAK AT ANY TIME!
+**WARNING**: This image uses `alpine:edge` as a base, which is considered
+unstable. Thus, the image may break at any time.
 
 
 ## Introduction
